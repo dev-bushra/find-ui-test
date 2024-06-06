@@ -1,0 +1,143 @@
+{
+  "NotFoundPage": {
+    "title": "الصفحة غير موجودة",
+    "description": "أُووبس! يبدو أنك عثرت على صفحة غير موجودة. لا تقلق، فسحر التدويل الخاص بنا لا يزال يعمل بجد على أجزاء أخرى من التطبيق. لا تتردد في العودة لاستكشاف المزيد!"
+  },
+  "Header": {
+    "home": "الرئيسية",
+    "thankyou": "شكرا لك",
+    "deliveryTo": "تسليم الى",
+    "location": "أبوظبي شارع 28 المشرق",
+    "allCategories": "جميع الفئات",
+    "bestSeller":"الأكثر مبيعًا",
+    "mostRated": "الأكثر تقييما",
+    "offers":"عروض",
+    "premium":"غالي",
+    "sellOn":"بيع على",
+    "loginAndRegisterNow":"تسجيل الدخول / سجل الان",
+    "MyAccount": "حسابي",
+    "MyOrders": "طلبات",
+    "MyAddresses": "عناوين",
+    "MyPayments": "المدفوعات",
+    "MyWallet": "محفظة",
+    "MyReturns": "عائدات",
+    "MyFavoriteSeller": "البائع المفضل",
+    "MyPremiumSubscription": "الاشتراك المميز",
+    "LogOut": "تسجيل خروج",
+    "Notifications": "إشعارات",
+    "NotificationExampleOne": "البائع كريم شارك بعض القصص الجديدة اذهب لترى",
+    "NotificationExampleTwo": "هناك العديد من العروض التي لا تفوتك",
+    "ViewAll": "عرض الكل",
+    "ReadAll": "اقرأ كل شيء",
+    "NoNotifications": "لا إشعارات",
+    "WeWillTellYouWhenThereIsAnUpdate": "سنخبرك عندما يكون هناك تحديث"
+  },
+  "Footer": {
+    "copyright": "© 2024 ابحث عن التطبيق. كل الحقوق محفوظة.",
+    "RegisterWithUsToReceiveAllNewUpdates": "سجل معنا ليصلك كل جديد",
+    "FollowUsOn": "اتبعنا :",
+    "CustomersService": "خدمة العملاء",
+    "ReturnAndRefundPolicy": "سياسة الإرجاع والاسترداد",
+    "IntellectualPropertyPolicy": "سياسة الملكية الفكرية",
+    "ShippingInformation": "معلومات الشحن",
+    "ReportSuspiciousActivity": "الإبلاغ عن النشاط المشبوه",
+    "Help": "مساعدة",
+    "SupportCenterAndFAQs": "مركز الدعم والأسئلة الشائعة",
+    "PurchaseProtectionAtFind": "حماية المشتريات في فيند",
+    "SellWithFind": "اشتري مع فيند",
+    "ShopEasierWithFind": "تسوق بشكل أسهل مع فيند",
+    "TrackOrdersAtAnyTime": "تتبع الطلبات في أي وقت",
+    "WarningProductAvailabilityIsLimited": "تحذير كمية محدوده",
+    "OffersAndCouponsAlerts": "تنبيهات العروض والكوبونات",
+    "Support": "الدعم",
+    "WeAccept": "نحن نقبل",
+    "AdvertisingOptions": "خيارات الإعلان",
+    "YourPrivacyChoices": "خيارات الخصوصية الخاصة بك",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfUse": "شروط الاستخدام"
+  },
+  "IndexPage": {
+    "title": "فيند",
+    "description": " مرحبًا"
+  },
+  "LoginPage": {
+    "title": "تسجيل الدخول",
+    "buttonText": "الانتقال للمنزل"
+  },
+  "ThankYouPage": {
+    "title": "شكرا لك",
+    "description": "شكرا حفنة لملء ذلك. إنه يعني الكثير بالنسبة لنا، تمامًا كما تفعل أنت!<br/> نحن نقدر حقًا منحنا لحظة من وقتك اليوم. شكرا لكونك نفسك. ",
+    "buttonText": "الانتقال للرئيسية"
+  },
+  "BannerSection": {
+    "title": "هل أنت مستعد لبدء التسوق؟",
+    "inputPlaceholder": "عن ماذا تبحث؟",
+    "searchButton": "بحث"
+  },
+  "StoriesSection": {
+    "title": "القصص"
+  },
+  "BrowseByCategorySection": {
+    "title": "تصفح حسب الفئات"
+  },
+  "DealsOfTheDay": {
+    "title": "صفقات اليوم"
+  },
+  "AdvertisementOne": {
+    "p1": "النظام السابق",
+    "p2": "كن أول <br/>يمتلك",
+    "p3": "من 399 دولارًا",
+    "p4": "اوبلو واتش سبورت<br />السلسلة 8",
+    "p5": "قفزة صحية إلى الأمام",
+    "DiscoverNow": "اكتشف الآن"
+  },
+  "AdvertisementThree": {
+    "p1": "احصل على استرداد نقدي بقيمة 3 دولارات! الحد الأدنى للطلب 30 دولارًا",
+    "p2": "استخدم الكود: GROCERY1920",
+    "DiscoverNow": " "
+  },
+  "OffersSection": {
+    "title": "العروض",
+    "viewAll": "المذيد"
+  },
+  "BestSellingSection": {
+    "title": "الافضل مبيعا",
+    "viewAll": "المذيد"
+  },
+  "RecentArriveSection": {
+    "title": "وصل مؤخرا",
+    "viewAll": "المذيد"
+  },
+  "ProductCard": {
+    "AddToCard": "اضافة الي السلة",
+    "SoldRecently": "بيع مؤخرا"
+  },
+  "BestSellersOfTheWeek": {
+    "title": "الأكثر مبيعا في الأسبوع",
+    "subTitle": "كل أسبوع، يقوم موظفونا شخصيًا باختيار بعض أفضل سمات مواقع الويب الجديدة من مجموعتنا.",
+    "viewAll": "عرض الكل",
+    "other": "آخر",
+    "preview": "معاينة"
+  },
+  "BestSellersOfTheWeekCard": {
+    "findShop": "متجر فيند",
+    "withinTheLastDays":"في اخر 30 يوم",
+    "positiveSellerRating": "80% تقيم تجار ايجابي",
+    "SoldRecently": "بيع مؤخرا"
+  },
+  "ProductsPage": {
+    "header": "الالكترونيات سماهات",
+    "results": "891 نتائج بحث",
+    "sortBy": "الترتيب حسب",
+    "MostPopular": "الاكثؤ رواجا",
+    "ViewMore": "عرض المزيد"
+  },
+  "FavoritePage": {
+    "header": "قائمة المفضلة"
+  },
+  "CartPage": {
+    "header": "عربة التسوق",
+    "emptyCartText": "لا يوجد حاليا أي عناصر في سلة التسوق الخاصة بك، يرجى إضافة المنتجات إلى سلة التسوق.",
+    "ShoppingNow": "التسوق الآن"
+  }
+}

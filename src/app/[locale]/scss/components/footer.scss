@@ -1,0 +1,23 @@
+// Desktop
+.footer-wrapper {
+    .top-footer {
+        background-image: url('../../../../../public/footer/footer-bg.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        @media screen and (max-width: 600px) {
+            background-image: url('../../../../../public/footer/mobile-footer-bg.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    }
+}
+
+// Tablet 
+@media screen and (min-width: 600px){
+   
+}
+
+// Phone
+@media screen and (max-width: 600px){
+  
+}
